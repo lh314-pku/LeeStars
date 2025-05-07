@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my Homepage!!!"
+title: "欢迎来到我的主页!!!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, which is friendly to me. As a student majoring computer and intelligence science, I'm really like having something personal like repos or pages. This website is built during my May Day's vacation when I was a freshman of university out of boredom. Looking a homepage of my own is a hard but interesting process. And more, you the unknown, I wish you can share this happiness with me.
-
-这一行是中文输入的测试版。
+这个主页基于[Github Pages](https://pages.github.com/)搭建，使用markdown, YAML, HTML, CSS实现。搭建这个主页无非出于两个目的：整理资料和整活。我会把我的大部分资料和整活的成果展示在这里，也欢迎大家在我的[Github主页](https://github.com/lh314-pku)查看（虽然现在只有一些作业的源代码）。
 
 A data-driven personal website
 ======
