@@ -9,37 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 本科就读于北京大学信息科学技术学院（2024级）
+* 现仍在读
 
-Work experience
+工作经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 暂无
   
-Skills
+我会什么？
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 基本编程语言：c/c++, python, HTML(a little)；
+* 大部分棋类和球类游戏，但是仅限于会；
+* 有待开发。
 
 Publications
 ======
