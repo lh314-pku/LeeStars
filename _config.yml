@@ -278,7 +278,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: test
+      type: talks
     values:
       layout: talk
       author_profile: true
