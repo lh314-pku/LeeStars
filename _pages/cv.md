@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Ciallo～(∠・ω< )⌒☆
+
 教育经历
 ======
 * 本科就读于北京大学信息科学技术学院（2024级）
