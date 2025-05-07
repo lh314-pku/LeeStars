@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-这个主页基于[Github Pages](https://pages.github.com/)搭建，使用markdown, YAML, HTML, CSS实现。搭建这个主页无非出于两个目的：整理资料和整活。我会把我的大部分资料和整活的成果展示在这里，也欢迎大家在我的[Github主页](https://github.com/lh314-pku)查看（虽然现在只有一些作业的源代码）:blush:。
+这个主页基于[Github Pages](https://pages.github.com/)搭建，使用markdown, YAML, HTML, CSS实现。搭建这个主页无非出于两个目的：整理资料和整活。我会把我的大部分资料和整活的成果展示在这里，也欢迎大家在我的[Github主页](https://github.com/lh314-pku)查看（虽然现在只有一些作业的源代码）😊。
 
 无论如何，也祝你拥有快乐的一天。Ciallo～(∠・ω< )⌒☆
 
@@ -24,4 +24,4 @@ redirect_from:
 |6:40-8:30  |no|史纲<br>理教106|高数习题课<br>三教306|习概<br>理教306|现代天文学<br>二教102|
 |8:40-9:30  |no|no|no|习概|no|
 
-由于其他几个页面大部分没什么用，而且我也没写，还请见谅。:sleepy:
+由于其他几个页面大部分没什么用，而且我也没写，还请见谅。😴
