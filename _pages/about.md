@@ -36,5 +36,17 @@ redirect_from:
 该网页会持续更新，敬请期待~~
 
 ---
+## MyPKU
+[北大门户](https://portal.pku.edu.cn/)
+[教学网](https://course.pku.edu.cn/)
+[北大邮箱](https://mail.stu.pku.edu.cn/)
+[北大树洞](https://treehole.pku.edu.cn/web/)
+
+---
+## 常用网页（其实就是备忘录）
+[PyQt6入门/常用函数速查](https://blog.csdn.net/weixin_43431593/article/details/125577712)
+[PyQt6官方网站](https://doc.qt.io/qtforpython-6/)
+
+---
 ## 更新日志
 2025-5-7：基本完成框架
