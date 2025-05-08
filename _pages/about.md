@@ -37,14 +37,14 @@ redirect_from:
 
 ---
 ## MyPKU
-[北大门户](https://portal.pku.edu.cn/)
-[教学网](https://course.pku.edu.cn/)
-[北大邮箱](https://mail.stu.pku.edu.cn/)
-[北大树洞](https://treehole.pku.edu.cn/web/)
+[北大门户](https://portal.pku.edu.cn/)<br>
+[教学网](https://course.pku.edu.cn/)<br>
+[北大邮箱](https://mail.stu.pku.edu.cn/)<br>
+[北大树洞](https://treehole.pku.edu.cn/web/)<br>
 
 ---
 ## 常用网页（其实就是备忘录）
-[PyQt6入门/常用函数速查](https://blog.csdn.net/weixin_43431593/article/details/125577712)
+[PyQt6入门/常用函数速查](https://blog.csdn.net/weixin_43431593/article/details/125577712)<br>
 [PyQt6官方网站](https://doc.qt.io/qtforpython-6/)
 
 ---
