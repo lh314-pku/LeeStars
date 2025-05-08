@@ -46,5 +46,5 @@ redirect_from:
 [PyQt6官方网站](https://doc.qt.io/qtforpython-6/)
 
 ## 更新日志
-2025-5-7：基本完成框架
+2025-5-7：基本完成框架<br>
 2025-5-8：添加了常用网页的链接
