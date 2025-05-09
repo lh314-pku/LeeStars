@@ -278,7 +278,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: Memos
+      type: memos
     values:
       layout: talk
       author_profile: true
