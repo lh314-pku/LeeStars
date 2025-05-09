@@ -10,4 +10,7 @@ location: "PKU,Beijing,China"
 
 |DDL|课程|任务|要求|完成情况|
 |:----:|:----:|:----|:----:|:----:|
-|5.22中午<br>xq23paper@163.com|习概|论文/读书报告|花名册序号(36)+学号+姓名+题目+联系方式<br>具体要求<br>论文模板已保存在本地|<ul><li>- [ ] finished?</li></ul>|
+|5.13|史纲|读书报告|(~2.0k)|<ul><li>- [x] finished?</li><li>- [ ] submitted?</li></ul>|
+|5.22中午<br>xq23paper@163.com|习概|论文/读书报告|花名册序号(36)+学号+姓名+题目+联系方式<br>(~4k)具体要求<br>论文模板已保存在本地|<ul><li>- [x] finished?</li><li>- [ ] submitted?</li></ul>|
+|5.27|史纲|期中论文|(~2.5k)具体要求|<ul><li>- [x] finished?</li><li>- [ ] submitted?</li></ul>|
+
