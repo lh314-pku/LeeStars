@@ -12,10 +12,10 @@ venue: 'September 9'
 如你所见，北京大学又又又又被水淹了（
 >P.S.本人拍照技术有限，还请见谅
 
-![img1](https://github.com/lh314-pku/LeeStars/blob/master/images/PublicationsImg/2025_05_09_img1.png)<br>
+![img1](https://raw.githubusercontent.com/lh314-pku/master/images/PublicationsImg/2025_05_09_img1.png)<br>
 这是在图书馆写文档时向窗外拍的。
-https://lh314-pku.github.io/images/PublicationsImg/2025_05_09_img1.png
-
+https://raw.githubusercontent.com/lh314-pku/master/images/PublicationsImg/2025_05_09_img1.png
+https://github.com/lh314-pku/LeeStars/blob/master/images/PublicationsImg/2025_05_09_img1.png
 
 ![img2](/images/PublicationsImg/2025_05_09_img2.jpg)
 这一张则是站在图书馆门口，向着东门拍的。
