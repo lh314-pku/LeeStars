@@ -44,6 +44,7 @@ redirect_from:
 ## 常用网页（其实就是备忘录）
 [PyQt6入门/常用函数速查](https://blog.csdn.net/weixin_43431593/article/details/125577712)<br>
 [PyQt6官方网站](https://doc.qt.io/qtforpython-6/)
+[网页构建指南](https://chunkitlau.github.io/posts/2022/02/academicpages-usage-guide/)
 
 ## 更新日志
 2025-5-7：基本完成框架<br>
