@@ -14,11 +14,11 @@ venue: 'September 9'
 
 ![img1](https://raw.githubusercontent.com/lh314-pku/LeeStars/master/images/PublicationsImg/2025_05_09_img1.png)<br>
 这是在图书馆写文档时向窗外拍的。
-https://raw.githubusercontent.com/lh314-pku/LeeStars/master/images/PublicationsImg/2025_05_09_img1.png
-https://github.com/lh314-pku/LeeStars/blob/master/images/PublicationsImg/2025_05_09_img1.png
+<!--https://raw.githubusercontent.com/lh314-pku/LeeStars/master/images/PublicationsImg/2025_05_09_img1.png-->
+<!--https://github.com/lh314-pku/LeeStars/blob/master/images/PublicationsImg/2025_05_09_img1.png-->
 
-![img2](/images/PublicationsImg/2025_05_09_img2.jpg)
+![img2](https://raw.githubusercontent.com/lh314-pku/LeeStars/master/images/PublicationsImg/2025_05_09_img2.png)
 这一张则是站在图书馆门口，向着东门拍的。
 
-![img3](/images/PublicationsImg/2025_05_09_img3.jpg)
+![img3](https://raw.githubusercontent.com/lh314-pku/LeeStars/master/images/PublicationsImg/2025_05_09_img3.png)
 最后是我突发奇想拍的，蹲在路边把手机贴在地上。这一张也是我最喜欢的一张。
