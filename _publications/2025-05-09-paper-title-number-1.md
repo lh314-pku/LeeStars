@@ -13,3 +13,6 @@ bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 <!--citation作为作者摘要，需要时可以保留-->
 
 如你所见，北京大学又又又又被水淹了（
+>P.S.本人拍照技术有限，还请见谅
+
+![img1](/images/PublicationsImg/2025_05_09_img3.jpg)
