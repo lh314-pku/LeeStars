@@ -8,8 +8,6 @@ date: 2025-05-09
 location: "PKU,Beijing,China"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
-
-<script>
-document.write(new Date().toLocaleDateString());
-</script>
+|DDL|课程|任务|要求|完成情况|
+|:----:|:----:|:----|:----:|:----:|
+|5.22中午<br>xq23paper@163.com|习概|论文/读书报告|花名册序号(36)+学号+姓名+题目+联系方式<br>具体要求<br>论文模板已保存在本地|-[]|
