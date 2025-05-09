@@ -227,6 +227,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  memos:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -279,12 +282,19 @@ defaults:
   # _talks
   - scope:
       path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
       type: memos
     values:
       layout: talk
       author_profile: true
       share: true
-
+      
 
 # Sass/SCSS
 sass:
