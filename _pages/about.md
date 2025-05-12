@@ -49,12 +49,19 @@ redirect_from:
 [网页构建指南](https://chunkitlau.github.io/posts/2022/02/academicpages-usage-guide/)
 
 ## 更新日志
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
 2025-5-7：基本完成框架<br>
 2025-5-8：添加了常用网页的链接<br>
 2025-5-9：更新了Publications部分的页面，该页面将用来分享一些平时与学业无关的东西，不定时更新。今日试发表了第一篇News；<br>更新了Memos页面，用作ddl备忘录。<br>
 2025-5-10：新发布了“燕园rpg”的游后感<br>
 2025-5-11：今日无事发生~<br>
 2025-5-12：今日开摆（试图加入鼠标拖尾未遂）
+
+</details>
+
 
 ---
 Ciallo～(∠・ω< )⌒☆
