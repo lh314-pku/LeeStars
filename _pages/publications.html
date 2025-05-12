@@ -32,5 +32,20 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
+<script>
+document.addEventListener('mousemove', function(e) {
+    const trail = document.createElement('div');
+    trail.style.position = 'absolute';
+    trail.style.background = 'rgba(255, 0, 0, 0.6)';
+    trail.style.borderRadius = '50%';
+    trail.style.pointerEvents = 'none';
+    trail.style.width = '10px';
+    trail.style.height = '10px';
+    trail.style.top = e.pageY + 'px';
+    trail.style.left = e.pageX + 'px';
+    document.body.appendChild(trail);
+    setTimeout(() => trail.remove(), 500); // 0.5s后删除拖尾
+});
+</script>
 
 
