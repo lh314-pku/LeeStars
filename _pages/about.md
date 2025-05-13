@@ -46,7 +46,8 @@ redirect_from:
 ## 常用网页（其实就是备忘录）
 [PyQt6入门/常用函数速查](https://blog.csdn.net/weixin_43431593/article/details/125577712)<br>
 [PyQt6官方网站](https://doc.qt.io/qtforpython-6/)<br>
-[网页构建指南](https://chunkitlau.github.io/posts/2022/02/academicpages-usage-guide/)
+[网页构建指南](https://chunkitlau.github.io/posts/2022/02/academicpages-usage-guide/)<br>
+[鼠标样式？](https://lo-y-eh.github.io/posts/dafc.html)
 
 ## 更新日志
 
@@ -59,7 +60,7 @@ redirect_from:
 2025-5-10：新发布了“燕园rpg”的游后感<br>
 2025-5-11：今日无事发生~<br>
 2025-5-12：今日开摆（试图加入鼠标拖尾未遂，但是“更新日志”部分可折叠）<br>
-2025-5-13：今天雷阵雨，不更新~
+2025-5-13：今天雷阵雨，不更新~（实际上是做到方法二不会了）
 
 </details>
 
