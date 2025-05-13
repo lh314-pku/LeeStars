@@ -233,3 +233,6 @@
     background-color: transparent;
   }
 }
+body {
+cursor: url(images/Normal.ani), auto;
+} 
