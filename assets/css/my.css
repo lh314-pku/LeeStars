@@ -1,1 +1,40 @@
+#cursor {
+    position: fixed;
+    width: 16px; 
+    height: 16px; 
+    border-radius: 8px; 
+    background: rgb(57, 197, 187); /* 可修改颜色 */
+    opacity: 0.25;
+    z-index: 10086;
+    pointer-events: none;
+    transition: 0.2s ease-in-out;
+    transition-property: background, opacity, transform;
+    transform: scale(2.0); /* 使用 transform 放大 2.0 倍 */
+}
 
+#cursor.hidden {
+    opacity: 0;
+}
+
+#cursor.hover {
+    opacity: 0.1;
+    transform: scale(2.5);
+    -webkit-transform: scale(2.5);
+    -moz-transform: scale(2.5);
+    -ms-transform: scale(2.5);
+    -o-transform: scale(2.5);
+}
+
+#cursor.active {
+    opacity: 0.5;
+    transform: scale(0.5);
+    -webkit-transform: scale(0.5);
+    -moz-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    -o-transform: scale(0.5);
+}
+/* 
+来源: loyeh の Blog
+文章作者: loyeh
+文章链接: https://lo-y-eh.github.io/posts/dafc.html
+本文章著作权归作者所有，任何形式的转载都请注明出处。 */
